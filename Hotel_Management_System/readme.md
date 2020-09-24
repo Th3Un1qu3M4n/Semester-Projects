@@ -1,5 +1,6 @@
 <h1>Hotel Management System</h1>
 The Hotel Management System developed as a GUI-based system. Our project digitalizes the management of Hotels and ensures the smooth management of room reservation. The developed system will increase productivity and reduce manual labour as well as provide hassle free reservation of rooms. 
+
 <h2>Features:</h2>
 This Hotel Management System comprises of many features that can be divided into three main categories:
 
