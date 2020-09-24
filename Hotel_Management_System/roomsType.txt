@@ -1,0 +1,5 @@
+1 single 800
+2 double 1500
+3 triple 2000
+4 family 3000
+5 newRoom 5000
