@@ -98,3 +98,5 @@ The other part of the management are the moderators. Their role includes:	<br>
 •	The data is stored in tabular form<br>
 •	Attractive background<br>
 •	Movies thumbnail   <br>
+
+<h1> © MUHAMMAD AHMED</h1>
